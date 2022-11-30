@@ -1,1 +1,2 @@
--e#!/bin/bash \nli -a
+#!/bin/bash 
+li -a
