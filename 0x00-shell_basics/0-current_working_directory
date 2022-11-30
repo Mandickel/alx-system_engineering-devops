@@ -1,2 +1,1 @@
-#!/bin/bash 
-pwd
+Te script in this file displays the current working directory
